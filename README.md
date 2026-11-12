@@ -51,7 +51,7 @@ After successful execution, an output file with `.i` extension is generated.
 
 Example
 
-inputfile.c  ->  inputfile.i
+sample.c  ->  sample.i
 
 ## Clean
 
